@@ -1,0 +1,15 @@
+Zoo Report:
+Enclosure 1:
+   Animal: asd
+   Age: 12
+   Health Status: Healthy
+
+   Staff: dqw
+   ID: 12312
+   Salary: $12312.0
+
+   Zookeeper: dswd
+   ID: 12312
+   Salary: $1231.0
+
+
